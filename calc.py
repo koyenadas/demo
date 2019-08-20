@@ -13,3 +13,7 @@ def multiply(x,y):
 def divide(x,y):
 """Divide Function"""
 	return x / y
+
+def modulo(x,y):
+"""Modulus Function"""
+	return x % y
